@@ -24,16 +24,16 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🤖 **Mʏ Nᴀᴍᴇ: 𝗠𝗮𝗿𝗴𝗼𝘁 𝗥𝗼𝗯𝗯𝗶𝗲**
 
-🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @vijay_patil_9**
+🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Hiten003**
 
-👥 **Gʀᴏᴜᴘ: @Movieable_Requests**
+👥 **Gʀᴏᴜᴘ: @Requestprime**
 
-📢 **Mᴏᴠɪᴇs: @Movieable**
+📢 **Mᴏᴠɪᴇs: @Moviezzprime**
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Vijay_Patil_9** 😏
+🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Hiten003** 😏
 
-**Iғ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʀᴇɢᴀʀᴅɪɴɢ ᴜsɪɴɢ ᴍᴇ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ Mʏ Bᴏss - @Vijay_patil_9**
+**Iғ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʀᴇɢᴀʀᴅɪɴɢ ᴜsɪɴɢ ᴍᴇ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ Mʏ Bᴏss - @Hiten003**
 
 **Aʟsᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴛʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪʟʟ Dᴇʟᴇᴛᴇ Aᴅᴜʟᴛ Cᴏɴᴛᴇɴᴛs ғʀᴏᴍ Dᴀᴛᴀʙᴀsᴇ. Sᴏ ʙᴇᴛᴛᴇʀ ᴅᴏɴ'ᴛ Sᴛᴏʀᴇ Tʜᴏsᴇ Kɪɴᴅ ᴏғ Tʜɪɴɢs**
 """
